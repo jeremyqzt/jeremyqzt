@@ -9,7 +9,7 @@
 
 <p align="center"> 👨‍💻 My personal page is located at <a href="https://jeremyqzt.github.io/">(https://jeremyqzt.github.io/)</a> </p>
 
-<p align="center"> 💬 Ask me about <strong>C, Node, Python, or anything!</strong> </p>
+<p align="center"> 💬 Ask me about <strong>C, Node, Python, or anything else!</strong> </p>
 
 <p align="center"> 📫 How to reach me <strong>jq357@hotmail.com</strong> </p>
 
@@ -58,7 +58,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
-<h3 align="center">Find me on other platforms </h3>
+<h1 align="center">🤵 Find me on other platforms </h1>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeremy-qian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jeremy-qian/" height="30" width="30" /></a>
 <a href="https://fb.com/https://www.facebook.com/jeremy.qian77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/jeremy.qian77" height="30" width="30" /></a>

@@ -21,9 +21,3 @@
 <p align="center"> 🖼️ Spatial Filter <a href="https://spatialfilter.com/">(https://spatialfilter.com/)</a></p>
  
 <p align="center"> 📊 Node Stats <a href="https://www.npmjs.com/package/@jeremyqzt/nodestats">(https://www.npmjs.com/package/@jeremyqzt/nodestats)</a></p>
-
-<h1 align="center">🤵 Find me on other platforms </h1>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeremy-qian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jeremy-qian/" height="30" width="30" /></a>
-<a href="https://fb.com/https://www.facebook.com/jeremy.qian77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/jeremy.qian77" height="30" width="30" /></a>
-</p>

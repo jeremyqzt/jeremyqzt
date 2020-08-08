@@ -3,31 +3,28 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeremyqzt" alt="jeremyqzt" /> </p>
 
-<h3 align="left">⏱️ Things about me </h3>
-<p align="left"> See what I'm up to right now or get in touch with me </p>
+<h3 align="center">⏱️ Things about me </h3>
 
-- 🌱 I’m currently learning **Django, React, and React Native**
+<p align="center"> 🌱 I’m currently learning <strong>Django, React, and React Native</strong> </p>
 
-- 👨‍💻 My personal page is located at [https://jeremyqzt.github.io/](https://jeremyqzt.github.io/)
+<p align="center"> 👨‍💻 My personal page is located at <a href="https://jeremyqzt.github.io/">(https://jeremyqzt.github.io/)</a> </p>
 
-- 💬 Ask me about **C, Node, Python, or anything!**
+<p align="center"> 💬 Ask me about <strong>C, Node, Python, or anything!</strong> </p>
 
-- 📫 How to reach me **jq357@hotmail.com**
+<p align="center"> 📫 How to reach me <strong>jq357@hotmail.com</strong> </p>
 
-<h3 align="left">🚧 See some of my projects </h3>
-<p align="left"> The following are things i've worked on (or am currently working on) </p>
-
- - ⭕ Reversi [https://playreversi.net/](https://playreversi.net/)
+<h3 align="center">🚧 See some of my projects </h3>
+<p align="center"> ⭕ Reversi <a href="https://playreversi.net/">(https://playreversi.net/)</a></p>
  
- - 💔 Offensive Hearts [https://offensivehearts.com/](https://offensivehearts.com/)
+<p align="center"> 💔 Offensive Hearts <a href="https://offensivehearts.com/"(https://offensivehearts.com/)</a></p>
  
- - 🖼️ Spatial Filter [https://spatialfilter.com/](https://spatialfilter.com/)
+<p align="center"> 🖼️ Spatial Filter <a href="https://spatialfilter.com/"(https://spatialfilter.com/)</a></p>
  
- - 📊 Node Stats [https://www.npmjs.com/package/@jeremyqzt/nodestats](https://www.npmjs.com/package/@jeremyqzt/nodestats)
+<p align="center"> 📊 Node Stats <a href="https://www.npmjs.com/package/@jeremyqzt/nodestats"(https://www.npmjs.com/package/@jeremyqzt/nodestats)</a></p>
 
 
-<h3 align="left">💾 Languages I'm famaliar with</h3>
-<p align="left">
+<h3 align="center">💾 Languages I'm famaliar with</h3>
+<p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
@@ -38,8 +35,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </p>
 
-<h3 align="left">🔨 Development Tools I have worked with</h3>
-<p align="left">
+<h3 align="center">🔨 Development Tools I have worked with</h3>
+<p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
@@ -51,8 +48,8 @@
 </p>
 
 
-<h3 align="left"> 🖽Frameworks I've dealt with before</h3>
-<p align="left">
+<h3 align="center"> 🖽Frameworks I've dealt with before</h3>
+<p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
@@ -60,8 +57,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
-<h3 align="left">Find me on other platforms </h3>
-<p align="left">
+<h3 align="center">Find me on other platforms </h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeremy-qian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jeremy-qian/" height="30" width="30" /></a>
 <a href="https://fb.com/https://www.facebook.com/jeremy.qian77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/jeremy.qian77" height="30" width="30" /></a>
 </p>

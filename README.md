@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeremyqzt" alt="jeremyqzt" /> </p>
 
-<h3 align="center">⏱️ Things about me </h3>
+<h1 align="center">⏱️ Things about me </h1>
 
 <p align="center"> 🌱 I’m currently learning <strong>Django, React, and React Native</strong> </p>
 
@@ -13,17 +13,18 @@
 
 <p align="center"> 📫 How to reach me <strong>jq357@hotmail.com</strong> </p>
 
-<h3 align="center">🚧 See some of my projects </h3>
+<h1 align="center">🚧 See some of my projects </h1>
 <p align="center"> ⭕ Reversi <a href="https://playreversi.net/">(https://playreversi.net/)</a></p>
  
-<p align="center"> 💔 Offensive Hearts <a href="https://offensivehearts.com/"(https://offensivehearts.com/)</a></p>
+<p align="center"> 💔 Offensive Hearts <a href="https://offensivehearts.com/">(https://offensivehearts.com/)</a></p>
  
-<p align="center"> 🖼️ Spatial Filter <a href="https://spatialfilter.com/"(https://spatialfilter.com/)</a></p>
+<p align="center"> 🖼️ Spatial Filter <a href="https://spatialfilter.com/">(https://spatialfilter.com/)</a></p>
  
-<p align="center"> 📊 Node Stats <a href="https://www.npmjs.com/package/@jeremyqzt/nodestats"(https://www.npmjs.com/package/@jeremyqzt/nodestats)</a></p>
+<p align="center"> 📊 Node Stats <a href="https://www.npmjs.com/package/@jeremyqzt/nodestats">(https://www.npmjs.com/package/@jeremyqzt/nodestats)</a></p>
 
+<h1 align="center">🔧 Some of my experiences and skills </h1>
 
-<h3 align="center">💾 Languages I'm famaliar with</h3>
+<h3 align="center">💾 Languages </h3>
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -35,7 +36,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </p>
 
-<h3 align="center">🔨 Development Tools I have worked with</h3>
+<h3 align="center">🔨 Development Tools </h3>
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -48,7 +49,7 @@
 </p>
 
 
-<h3 align="center"> 🖽Frameworks I've dealt with before</h3>
+<h3 align="center"> 🖽Frameworks </h3>
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>

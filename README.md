@@ -5,7 +5,7 @@
 
 <h1 align="center">⏱️ Things about me </h1>
 
-<p align="center"> 🌱 I’m currently learning <strong>Django, React, and React Native</strong> </p>
+<p align="center"> 🌱 I’m currently learning <strong>Django, React, and Flutter/Dart</strong> </p>
 
 <p align="center"> 👨‍💻 My personal page is located at <a href="https://jeremyqzt.github.io/">(https://jeremyqzt.github.io/)</a> </p>
 

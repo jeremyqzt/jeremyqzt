@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
-<h3 align="center">Software developer in Toronto, Canada - Specializing in systems design and backend development!</h3>
+<h3 align="center">Software developer in Toronto, Canada - Specializing in full-stack, embedded systems, and system architecture!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeremyqzt" alt="jeremyqzt" /> </p>
 

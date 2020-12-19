@@ -9,7 +9,7 @@
 
 <p align="center"> 👨‍💻 My personal page is located at <a href="https://jeremyqzt.github.io/">(https://jeremyqzt.github.io/)</a> </p>
 
-<p align="center"> 💬 Ask me about <strong>C, Node, Python, or anything else!</strong> </p>
+<p align="center"> 💬 Ask me about <strong>Python, Django/Fask, NodeJS, React, C/C++ or anything!</strong> </p>
 
 <p align="center"> 📫 How to reach me <strong>jq357@hotmail.com</strong> </p>
 

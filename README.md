@@ -13,7 +13,7 @@
 
 <p align="center"> 📫 How to reach me <strong>jq357@hotmail.com</strong> </p>
 
-<h1 align="center">🚧 See some of my deployed projects </h1>
+<h1 align="center">✔️ See some of my deployed projects </h1>
 <p align="center"> ⭕ Reversi <a href="https://playreversi.net/">(https://playreversi.net/)</a></p>
  
 <p align="center"> 💔 Offensive Hearts <a href="https://offensivehearts.com/">(https://offensivehearts.com/)</a></p>
@@ -21,3 +21,6 @@
 <p align="center"> 🖼️ Spatial Filter <a href="https://spatialfilter.com/">(https://spatialfilter.com/)</a></p>
  
 <p align="center"> 📊 Node Stats <a href="https://www.npmjs.com/package/@jeremyqzt/nodestats">(https://www.npmjs.com/package/@jeremyqzt/nodestats)</a></p>
+
+<h1 align="center">🚧 Things being worked on </h1>
+<p align="center"> Ribbon Memeos - an RN app to coarsely remember events<a href="https://github.com/jeremyqzt/eventReminder">(Github)</a></p>

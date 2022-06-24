@@ -11,6 +11,8 @@
 
 <p align="center"> 💬 Ask me about <strong>Python, Django/Flask, NodeJS, React, C/C++ or anything!</strong> </p>
 
+<p align="center"> ❤️ Husband to my beautiful wife Melody </p>
+
 <p align="center"> 📫 How to reach me <strong>jq357@hotmail.com</strong> </p>
 
 <h1 align="center">✔️ See some of my deployed projects </h1>

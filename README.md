@@ -27,6 +27,7 @@
  
 <p align="center"> 📊 Node Stats <a href="https://www.npmjs.com/package/@jeremyqzt/nodestats">(https://www.npmjs.com/package/@jeremyqzt/nodestats)</a></p>
 
+<p align="center"> Ribbon Receipts - an app to store receipts <a href="https://ribbonreceipts.com">(Web)</a> <a href="https://apps.apple.com/us/app/ribbon-receipts/id1662296584">(App Store)</a></p> 
+
 <h1 align="center">🚧 Things being worked on </h1>
-<p align="center"> Ribbon Memeos - an RN app to coarsely remember events <a href="https://github.com/jeremyqzt/eventReminder">(Github)</a></p>
-<p align="center"> Ribbon Receipts - an app to store receipts <a href="https://github.com/jeremyqzt/receipts">(Github)</a></p>
+<p align="center"> Ribbon Memeos - an RN app to coarsely remember events <a href="https://github.com/jeremyqzt/eventReminder">(Github)</a> </p>
